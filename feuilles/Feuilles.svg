@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--
+	Feuilles blanches · SVG
+	Olivier Lange (https://github.com/olange)
+	Drawn with InkPad (https://github.com/sprang/Inkpad)
+-->
+<svg version="1.1" id="feuilles" xmlns="http://www.w3.org/2000/svg"
+		xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="595.279px"
+		height="841.891px" viewBox="0 0 595.279 841.891" enable-background="new 0 0 595.279 841.891" xml:space="preserve">
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M278.484,379.711
+		c-8.608,0-20.772-0.123-29.29,1.095c-25.653,3.664-35.094,32.509-33.19,54.761c18.392,15.417,41.789-1.218,53.284-21.639
+		C276.487,401.136,273.209,387.961,278.484,379.711z"/>
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M146.31,287.351
+		c19.291,28.936,2.521,74.901-36.323,72.125c-15.656-22.164-13.527-48.723,9.782-63.291
+		C129.24,290.266,136.785,293.922,146.31,287.351z"/>
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M157.511,309.424
+		c42.729,50.13,58.723-23.632,23.799-26.718C165.355,281.296,161.733,305.202,157.511,309.424z"/>
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M73.711,245.495
+		c-23.62,2.604-30.04,30.516-25.616,52.637c0.25,1.247,5.581,19.279,8.215,16.646c8.578-8.579,21.894-13.169,28.966-23.778
+		C95.172,276.154,92.359,249.225,73.711,245.495z"/>
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M104.839,217.069
+		c-9.043,37.409,38.917,72.059,68.883,39.68c2.312-2.498-3.807-2.7-3.973-21.731C169.615,219.598,138.892,191.503,104.839,217.069z"
+		/>
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M55.536,407.216
+		c-19.743,3.194-34.841-25.266-21.146-43.109c2.239-2.917,3.361-9.481,4.41-10.245c1.536-1.12,7.031,4.591,10.046,6.219
+		C70.318,371.676,80.228,401.594,55.536,407.216z"/>
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M88.026,397.137
+		c-0.59-8.106,13.328-9.921,16.142-9.713c5.433,0.403,7.413-0.808,13.449,5.933c1.294,1.443,5.131,2.616,5.04,4.384
+		c-0.121,2.369-1.89,4.133-3.028,6.481C116.021,411.658,88.039,409.353,88.026,397.137z"/>
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M81.598,406.572
+		c-7.062,2.562-8.737,10.506-6.943,19.601c4.271,21.645,37.858,28.188,42.515,30.963c2.071,1.234,6.084-22.578-1.783-34.443
+		C106.738,409.65,94.429,401.684,81.598,406.572z"/>
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M107.675,369.029
+		c5.731-0.914,13.02-10.935,23.533-11.742c29.604-2.272,36.024,20.361,44.423,33.51c0.848,1.329-5.525,3.867-10.829,7.293
+		c-7.566,4.887-10.417,7.145-27.442,4.389C125.423,400.545,107.233,386.046,107.675,369.029z"/>
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M209.094,424.762
+		c-24.048-5.69-27.104-48.221-18.866-68.816c1.514-3.781,4.294-7.184,4.889-11.339c0.397-2.786-1.735-9.665,0.781-8.407
+		c28.417,14.209,34.023,53.087,19.745,78.787C213.741,418.412,212.789,423.057,209.094,424.762z"/>
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M308.387,403.834
+		c2.912-29.277-15.534-40.165,8.385-67.072c4.18-4.703,10.399-9.28,16.925-9.873c28.409-2.583,37.142,17.395,27.111,38.708
+		C342.901,403.65,332.756,381.581,308.387,403.834z"/>
+</svg>
