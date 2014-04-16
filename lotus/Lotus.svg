@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--
+	Lotus Flower Petal · SVG
+	Olivier Lange (https://github.com/olange)
+	Drawn with InkPad (https://github.com/sprang/Inkpad)
+-->
+<svg version="1.1" id="lotus" xmlns="http://www.w3.org/2000/svg"
+		xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve"
+		x="0px" y="0px" width="299.656px" height="437.317px"
+		viewBox="170.082 197.743 299.656 437.317"
+		enable-background="new 170.082 197.743 299.656 437.317">
+	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M457.424,539.117
+		c13.284-38.934,16.947-77.868,5.38-135.883c-12.838-64.382-57.818-114.545-91.091-144.545
+		c-27.8-25.065-83.658-63.218-101.257-60.84c-20.182,2.728-52.429,49.737-64.016,71.204
+		c-17.803,32.978-36.894,88.613-36.348,145.887c0.379,39.876,9.272,92.728,48.545,146.182
+		c36.625,49.851,91.091,84.546,148.551,70.979C416.976,620.346,445.565,573.88,457.424,539.117z"/>
+</svg>
