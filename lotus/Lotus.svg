@@ -1,17 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!--
-	Lotus Flower Petal · SVG
-	Olivier Lange (https://github.com/olange)
-	Drawn with InkPad (https://github.com/sprang/Inkpad)
--->
-<svg version="1.1" id="lotus" xmlns="http://www.w3.org/2000/svg"
-		xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="299.656px" height="437.316px"
-		viewBox="0 0 299.656 437.316" enable-background="new 0 0 299.656 437.316"
-		xml:space="preserve">
-	<path fill="none" stroke="#008900" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4,3" d="M287.344,341.374
-		c13.283-38.934,16.946-77.867,5.38-135.883c-12.838-64.382-57.818-114.545-91.091-144.545
-		c-27.801-25.064-83.659-63.218-101.258-60.84C80.194,2.835,47.947,49.844,36.36,71.31C18.557,104.288-0.535,159.924,0.011,217.197
-		c0.38,39.876,9.272,92.729,48.546,146.183c36.625,49.851,91.091,84.546,148.551,70.979
-		C246.896,422.604,275.485,376.138,287.344,341.374z"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Inkpad (http://inkpad.envoza.com/) --><svg xmlns:inkpad="http://inkpad.envoza.com/svg_extensions" height="841.89pt" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="595.28pt" version="1.1" viewBox="0,0,595.28,841.89">
+<metadata>
+<inkpad:thumbnail xlink:href="data:image/jpeg;base64,
+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iigAooooAKKKKAMPwwnl+HbFduz9whxjbjKjtsjx9Ni/QVuVh+Gk8rQbWDbs8pBHjG3Gz5emxMdOygegxW5UU/hRnR+BBRRRVmgUUUUAFFFFABRRRQBhSkQeI4W6faYHQ/WJgV7+jt2rdrD1dhHeafNnGLgqeeoaNxjqO+Ox+ncblRDdmdPdoKKKKs0CiiigD/9f+/iiiigAooooAKKKKAMPQ4/s6XVlt2iK5kx8u0ESHzePkQH7+MjdznLFs1uVgbVsvERYKAt9EASAB+8iz1IXJJVu7dF4HXO/UU9rGdLa3YKKKKs0CiiigAooooAKKKKAMPXW2panOP9JiHXHU4/vL/X6GtysLWWzcWFvnBkuRxnGQiO/94Z+77/THI3aiO7M4/EwoooqzQKKKKAP/0P7+KKKKACiiigAooooAydZtZriz821GZ7dhLEO5Zf4eWUfMMryQOeau2V3Bf2kd5bEMkihhgg/hkEjjocGrNc9G/wDZGqG2kOLa8YtGS33ZjyyAbcANjcMsctkY6Vm9Hcyl7rudDRRRWhqFFFFABRRRQAUUUUAYUkgufEcdujcWsBkcA95TtTID56K/VCD2YEEHdrD0MSTJPqkpf/S5C6K5b5Y1AVMKwG3IG4jHUnrW5UU9rmdPa/cKKKKs0CiiigD/0f7+KKKKACiiigAooooAKrXtpFfWr2kxYLIMEqxVh7hhyCOoIqzRSavoxNX0Zi2OoPHcDSdTKpc8mP5gTMi/xgYHP95R909yCDW1VLULGPULY27s0bclJEOGRsEBlPPIz/jxWdHqk1jJ9l1sBMkiOcfccBQSW4xGevBODjIPOBHNy6MzUuXSRvUUUVoahRRRQAVz+rub+QaBBz5wzOflOyHuCCc/vMFRwe57VavdTEM40+yAmum2nYP4EZtpdvYDJAyC2MCp9PsfsUX7xvNmfBll2hS7epx+QHYcVnJ83uoyl73uouoiRII4wFVRgAcAAdAKdRRWhqFFFFABRRRQB//S/v4ooooAKKKKACiiigAooooAKjmhiuImgnUOjgqysMgg8EEHqDUlFAGGNIntH36VcNEpbJikHmR8sC2ASGXIyBhtoznacYoju9ei2pd2kcn3QWhk452Ana4XABLnGTwo7tgblFRydjP2fbQw49S1WXaP7Okjztzvkj4zsz91mzjc31KHsVJYLfX75ALyVLNSBuWDLvkhcgSOAODuH3MkYPymt+ijk7sPZ92VLKwtNPiMNom0ElickkliSSSeSSSetW6KKpK2xaSWiCiiimMKKKKACiiigD//0/7+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/1P7+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/1f7+KKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD/2Q=="/>
+</metadata>
+<metadata>
+<inkpad:setting key="OutlineMode" value="0"/>
+<inkpad:setting key="RulersVisible" value="0"/>
+<inkpad:setting key="GridSpacing" value="36"/>
+<inkpad:setting key="Units" value="Centimeters"/>
+<inkpad:setting key="SnapToPoints" value="0"/>
+<inkpad:setting key="SnapToGrid" value="0"/>
+<inkpad:setting key="IsolateActiveLayer" value="0"/>
+<inkpad:setting key="ShowGrid" value="0"/>
+<inkpad:setting key="SnapToEdges" value="0"/>
+</metadata>
+<defs/>
+<g id="dessin" inkpad:layerName="dessin">
+<path d="M362.409+633.778" opacity="1" fill="#008900"/>
+<path stroke="#008900" stroke-width="1" d="M457.424+539.117C470.708+500.183+474.372+461.249+462.804+403.234C449.966+338.852+404.986+288.689+371.713+258.689C343.914+233.624+288.055+195.471+270.456+197.849C250.275+200.577+218.028+247.587+206.441+269.053C188.638+302.031+169.547+357.667+170.093+414.94C170.472+454.816+179.365+507.667+218.638+561.122C255.263+610.972+309.729+645.667+367.189+632.101C416.976+620.346+445.565+573.879+457.424+539.117Z" fill="none" stroke-linecap="round" opacity="1" stroke-linejoin="round" stroke-dasharray="4,3"/>
+</g>
 </svg>
