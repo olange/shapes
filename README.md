@@ -4,26 +4,27 @@ Hand-drawn vector shapes for Processing and Unity, and a few handpicked colors.
 
 ### 2D
 
-<img src="coquelicots/Coquelicots.png" height="120" title="Deux coquelicots" />
-<img src="feuilles/Feuilles.png" height="120" title="Feuilles arbre" />
-<img src="figure-tombante/Figure%20tombante.png" height="120" title="Figure tombante" />
-<img src="lotus/Lotus.png" height="120" title="Feuille de fleur de lotus" />
-<img src="rosace/Rosace.png" height="120" title="Rosace" />
-<img src="tulipe/Tulipe.png" height="120" title="Tulipe" />
+<img src="coquelicots/Coquelicots.png" height="150" title="Deux coquelicots (InkPad)" />
+<img src="feuilles/Feuilles.png" height="150" title="Feuilles arbre (InkPad)" />
+<img src="figure-tombante/Figure%20tombante.png" height="150" title="Figure tombante (InkPad)" />
+<img src="lotus/Lotus.png" height="150" title="Feuille de fleur de lotus (InkPad)" />
+<img src="rosace/Rosace.png" height="150" title="Rosace (InkPad)" />
+<img src="tulipe/Tulipe.png" height="150" title="Tulipe (InkPad)" />
 
 ### 3D
 
-<img src="nenufars/Nenufar.png" height="120" title="Feuille de nénufar (3D)" />
+<a href="leafage/README.md"><img src="leafage/Leafage.png" title="Leafage mesh (uMake)" height="150" /></a>
+<a href="nenufars/Nenufar.obj"><img src="nenufars/Nenufar.png" height="150" title="Feuille de nénufar (uMake)" /></a>
 
 ### Colors
 
-<img src="colors/Colors.png" height="120" title="Teintes primaires en addition et soustraction" />
+<img src="colors/Colors.png" height="125" title="Teintes primaires en addition et soustraction" />
 
 ## Contributing
 
-The 2D shapes were initially edited with [Envoza's InkPad](https://itunes.apple.com/app/inkpad-vector-design-illustration/id1057007769) on an _iPad Mini_, an app based on Steve Sprang's excellent open-source [InkPad](https://github.com/sprang/Inkpad) codebase, using a _Creative Stylus_ stylet.
+The 2D shapes were drawn with [Envoza's InkPad](https://itunes.apple.com/app/inkpad-vector-design-illustration/id1057007769) on an _iPad Mini_, an app based on the open-source [InkPad app](https://github.com/sprang/Inkpad) created by [Steve Sprang](https://github.com/sprang/), using a _Wacom Creative Stylus_.
 
-The 3D surfaces were drawn with the [uMake](https://itunes.apple.com/app/umake/id1042246861) app, on an _iPad Pro_ with an _Apple Pencil_ stylet.
+The 3D surfaces were drawn with the [uMake](https://itunes.apple.com/app/umake/id1042246861) app, on an _iPad Pro_ with an _Apple Pencil_ stylus.
 
 <img src="images/inkpad-ipad-pencil.jpg" height="120" title="InkPad et Apple Pencil" />
 
