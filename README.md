@@ -15,6 +15,7 @@ Hand-drawn vector shapes for Processing and Unity, and a few handpicked colors.
 
 <a href="leafage/README.md"><img src="leafage/Leafage.png" title="Leafage mesh (uMake)" height="150" /></a>
 <a href="nenufars/Nenufar.obj"><img src="nenufars/Nenufar.png" height="150" title="Feuille de nénufar (uMake)" /></a>
+<a href="lotus/Lotus%20Flower.obj"><img src="lotus/Lotus%20Flower.png" height="150" title="Fleur de lotus (uMake)" /></a>
 
 ### Colors
 
