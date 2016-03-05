@@ -4,18 +4,18 @@ Hand-drawn vector shapes for Processing and Unity, and a few handpicked colors.
 
 ### 2D
 
-<a href="coquelicots/Coquelicots.svg"><img src="coquelicots/Coquelicots.png" height="150" title="Deux coquelicots (InkPad)" /></a>
-<a href="feuilles/Feuilles.svg"><img src="feuilles/Feuilles.png" height="150" title="Feuilles arbre (InkPad)" /></a>
-<a href="figure-tombante/Figure%20tombante.svg"><img src="figure-tombante/Figure%20tombante.png" height="150" title="Figure tombante (InkPad)" /></a>
-<a href="lotus/Lotus.svg"><img src="lotus/Lotus.png" height="150" title="Feuille de fleur de lotus (InkPad)" /></a>
-<a href="rosace/Rosace.svg"><img src="rosace/Rosace.png" height="150" title="Rosace (InkPad)" /></a>
-<a href="tulipe/Tulipe.svg"><img src="tulipe/Tulipe.png" height="150" title="Tulipe (InkPad)" /></a>
+<a href="2d/coquelicots/Coquelicots.svg"><img src="2d/coquelicots/Coquelicots.png" height="150" title="Deux coquelicots (InkPad)" /></a>
+<a href="2d/feuilles/Feuilles.svg"><img src="2d/feuilles/Feuilles.png" height="150" title="Feuilles arbre (InkPad)" /></a>
+<a href="2d/figure-tombante/Figure%20tombante.svg"><img src="2d/figure-tombante/Figure%20tombante.png" height="150" title="Figure tombante (InkPad)" /></a>
+<a href="2d/lotus/Lotus.svg"><img src="2d/lotus/Lotus.png" height="150" title="Feuille de fleur de lotus (InkPad)" /></a>
+<a href="2d/rosace/Rosace.svg"><img src="2d/rosace/Rosace.png" height="150" title="Rosace (InkPad)" /></a>
+<a href="2d/tulipe/Tulipe.svg"><img src="2d/tulipe/Tulipe.png" height="150" title="Tulipe (InkPad)" /></a>
 
 ### 3D
 
-<a href="leafage/README.md"><img src="leafage/Leafage.png" title="Leafage mesh (uMake)" height="150" /></a>
-<a href="nenufars/Nenufar.obj"><img src="nenufars/Nenufar.png" height="150" title="Feuille de nénufar (uMake)" /></a>
-<a href="lotus/Lotus%20Flower.obj"><img src="lotus/Lotus%20Flower.png" height="150" title="Fleur de lotus (uMake)" /></a>
+<a href="3d/leafage/README.md"><img src="3d/leafage/Leafage.png" title="Leafage mesh (uMake)" height="150" /></a>
+<a href="3d/nenufars/Nenufar.obj"><img src="3d/nenufars/Nenufar.png" height="150" title="Feuille de nénufar (uMake)" /></a>
+<a href="3d/lotus/Lotus%20Flower.obj"><img src="3d/lotus/Lotus%20Flower.png" height="150" title="Fleur de lotus (uMake)" /></a>
 
 ### Colors
 
@@ -27,7 +27,7 @@ The 2D shapes were drawn with [Envoza's InkPad](https://itunes.apple.com/app/ink
 
 The 3D surfaces were drawn with the [uMake](https://itunes.apple.com/app/umake/id1042246861) app, on an _iPad Pro_ with an _Apple Pencil_ stylus.
 
-<img src="images/inkpad-ipad-pencil.jpg" height="120" title="InkPad et Apple Pencil" />
+<img src="doc/images/inkpad-ipad-pencil.jpg" height="120" title="InkPad et Apple Pencil" />
 
 ## License
 
