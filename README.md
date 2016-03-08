@@ -14,7 +14,8 @@ Hand-drawn meshes and vector shapes for Processing and Unity, and a few handpick
 ### 3D
 
 <a href="3d/tulipe/Tulipe%20Take%201.obj"><img src="3d/tulipe/Tulipe%20Take%201.png" title="Tulipe mesh (uMake)" height="150" /></a>
-<a href="3d/lotus/Lotus%20Flower.obj"><img src="3d/lotus/Lotus%20Flower.png" height="150" title="Fleur de lotus (uMake)" /></a>
+<a href="3d/coquelicot/README.md"><img src="3d/coquelicot/Coquelicot.png" title="Coquelicot mesh (uMake)" height="150" /></a>
+<a href="3d/lotus/Lotus%20Flower%20Take%201.obj"><img src="3d/lotus/Lotus%20Flower%201.png" height="150" title="Fleur de lotus (uMake)" /></a>
 <a href="3d/leafage/README.md"><img src="3d/leafage/Leafage.png" title="Leafage mesh (uMake)" height="150" /></a>
 <a href="3d/nenufars/Nenufar.obj"><img src="3d/nenufars/Nenufar.png" height="150" title="Feuille de nénufar (uMake)" /></a>
 
