@@ -1,0 +1,38 @@
+# Part of setting up Unity for Git
+# See the [Contributing](https://github.com/olange/noia/wiki/Contributing) guide for more details
+
+# Unity generated
+/Assets/AssetStoreTools*
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ibrary/
+/[Oo]bj/
+/[Tt]emp/
+
+# Visual Studio / MonoDevelop generated
+ExportedObj/
+obj/
+*.booproj
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.svd
+*.tmp
+*.unityproj
+*.user
+*.userprefs
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+[Tt]humbs.db
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
