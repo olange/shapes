@@ -1,6 +1,6 @@
 # Shapes
 
-Hand-drawn meshes and vector shapes for Processing and Unity, and a few handpicked colors.
+Hand-drawn meshes and vector shapes for <a href="https://processing.org" title="Processing language">Processing</a> and <a href="http://unity3d.com" title="Unity Game Engine">Unity</a>, and a few handpicked colors.
 
 ### 2D
 
@@ -13,6 +13,7 @@ Hand-drawn meshes and vector shapes for Processing and Unity, and a few handpick
 
 ### 3D
 
+<a href="unity/coquelicot/"><img src="Coquelicot-and-Stem-in-Unity-02.png" title="Coquelicot and Stem in Unity" height="230" /></a>
 <a href="3d/tulipe/Tulipe%20Take%201.obj"><img src="3d/tulipe/Tulipe%20Take%201.png" title="Tulipe mesh (uMake)" height="150" /></a>
 <a href="3d/coquelicot/README.md"><img src="3d/coquelicot/Coquelicot.png" title="Coquelicot mesh (uMake)" height="150" /></a>
 <a href="3d/lotus/README.md"><img src="3d/lotus/Lotus%20Flower%20Take%201.png" height="150" title="Fleur de lotus (uMake)" /></a>
