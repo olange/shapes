@@ -4,8 +4,8 @@ Coquelicot and Stem integrated in an <a href="http://unity3d.com" title="Unity G
 
 ## Overview
 
-<a href="#"><img src="../../3d/coquelicot/Coquelicot-and-Stem-in-Unity-01.png" title="Coquelicot and Stem (Unity project)" height="230" /></a>
-<a href="#"><img src="../../3d/coquelicot/Coquelicot-and-Stem-in-Unity-02.png" title="Coquelicot and Stem (Unity project)" height="230" /></a>
+<img src="../../3d/coquelicot/Coquelicot-and-Stem-in-Unity-01.png" title="Coquelicot and Stem (Unity project)" height="230" />
+<img src="../../3d/coquelicot/Coquelicot-and-Stem-in-Unity-02.png" title="Coquelicot and Stem (Unity project)" height="230" />
 
 ## Meshes
 
