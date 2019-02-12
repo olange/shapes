@@ -4,7 +4,7 @@
 
 <a href="Leafage.obj"><img src="Leafage.png" title="Leafage mesh" height="230" /></a>
 
-## Elements
+## Elements
 
 <a href="Leaf1.obj"><img src="Leaf1.png" title="Leaf 1" height="115" /></a>
 <a href="Leaf2.obj"><img src="Leaf2.png" title="Leaf 2" height="115" /></a>
