@@ -2,7 +2,7 @@
 
 Hand-drawn meshes and vector shapes for <a href="https://processing.org" title="Processing language">Processing</a> and <a href="http://unity3d.com" title="Unity Game Engine">Unity</a>, and a few handpicked colors.
 
-### 2D
+### 2D
 
 <a href="2d/coquelicots/Coquelicots.svg"><img src="2d/coquelicots/Coquelicots.png" height="150" title="Deux coquelicots (InkPad)" /></a>
 <a href="2d/feuilles/Feuilles.svg"><img src="2d/feuilles/Feuilles.png" height="150" title="Feuilles arbre (InkPad)" /></a>
