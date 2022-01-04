@@ -15,7 +15,7 @@ Hand-drawn meshes (3D) and vector shapes (2D) for <a href="https://processing.or
 
 ### 3D
 
-<a href="unity/coquelicot/"><img src="3d/coquelicot/Coquelicot-and-Stem-in-Unity-02.png" title="Coquelicot and Stem in Unity" height="150" /></a>
+<a href="docs/usage/unity/coquelicot/README.md"><img src="docs/usage/images/Coquelicot-and-Stem-in-Unity-02.png" title="Coquelicot and Stem in Unity" height="150" /></a>
 <a href="3d/tulipe/Tulipe%20Take%201.obj"><img src="3d/tulipe/Tulipe%20Take%201.png" title="Tulipe mesh (uMake)" height="150" /></a>
 <a href="3d/coquelicot/README.md"><img src="3d/coquelicot/Coquelicot.png" title="Coquelicot mesh (uMake)" height="150" /></a>
 <a href="3d/lotus/README.md"><img src="3d/lotus/Lotus%20Flower%20Take%201.png" height="150" title="Fleur de lotus (uMake)" /></a>
@@ -24,7 +24,8 @@ Hand-drawn meshes (3D) and vector shapes (2D) for <a href="https://processing.or
 
 ## Documentation
 
-[_Making of_ ‹lotus flower› and ‹coquelicot› drawings](docs/making-of/README.md)
+* [_Making of_ ‹lotus flower› and ‹coquelicot› drawings](docs/making-of/README.md)
+* [Sample usage of the ‹coquelicot› meshes in an Unity project](docs/usage/unity/coquelicot/README.md)
 
 ## Contributing
 

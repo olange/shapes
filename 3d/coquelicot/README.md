@@ -3,7 +3,7 @@
 ## Overview
 
 <a href="Coquelicot.obj"><img src="Coquelicot.png" title="Coquelicot mesh" height="230" /></a>
-<a href="../../unity/coquelicot/"><img src="Coquelicot-and-Stem-in-Unity-01.png" title="Coquelicot and Stem (Unity project)" height="230" /></a>
+<a href="../../docs/usage/unity/coquelicot/README.md"><img src="../../docs/usage/images/Coquelicot-and-Stem-in-Unity-01.png" title="Coquelicot and Stem (Unity project)" height="230" /></a>
 
 ## Elements
 
@@ -20,3 +20,4 @@
 ## Documentation
 
 * [_Making of_ ‹lotus flower› and ‹coquelicot› drawings](../../docs/making-of/README.md)
+* [Sample usage of the ‹coquelicot› meshes in an Unity project](../../docs/usage/unity/coquelicot/)
