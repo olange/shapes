@@ -22,7 +22,7 @@ Hand-drawn meshes and vector shapes for <a href="https://processing.org" title="
 
 ## Contributing
 
-<img src="doc/images/inkpad-ipad-pencil.jpg" height="120" title="InkPad et Apple Pencil" align="right"/>The 2D shapes were drawn with [Envoza's InkPad](https://itunes.apple.com/app/inkpad-vector-design-illustration/id1057007769) on an _iPad Mini_, an app based on the open-source [InkPad app](https://github.com/sprang/Inkpad) created by [Steve Sprang](https://github.com/sprang/), using a _Wacom Creative Stylus_.
+<img src="docs/images/inkpad-ipad-pencil.jpg" height="120" title="InkPad et Apple Pencil" align="right"/>The 2D shapes were drawn with [Envoza's InkPad](https://itunes.apple.com/app/inkpad-vector-design-illustration/id1057007769) on an _iPad Mini_, an app based on the open-source [InkPad app](https://github.com/sprang/Inkpad) created by [Steve Sprang](https://github.com/sprang/), using a _Wacom Creative Stylus_.
 
 The 3D surfaces were drawn with the [uMake](https://itunes.apple.com/app/umake/id1042246861) app, on an _iPad Pro_ with an _Apple Pencil_ stylus.
 
