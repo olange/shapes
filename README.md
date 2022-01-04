@@ -1,6 +1,8 @@
 # Shapes
 
-Hand-drawn meshes and vector shapes for <a href="https://processing.org" title="Processing language">Processing</a> and <a href="http://unity3d.com" title="Unity Game Engine">Unity</a>, and a few handpicked colors.
+Hand-drawn meshes (3D) and vector shapes (2D) for <a href="https://processing.org" title="Processing language">Processing</a> and <a href="http://unity3d.com" title="Unity Game Engine">Unity</a>, and a few handpicked colors.
+
+## Vector shapes and meshes
 
 ### 2D
 
@@ -20,11 +22,15 @@ Hand-drawn meshes and vector shapes for <a href="https://processing.org" title="
 <a href="3d/leafage/README.md"><img src="3d/leafage/Leafage.png" title="Leafage mesh (uMake)" height="150" /></a>
 <a href="3d/nenufars/Nenufar.obj"><img src="3d/nenufars/Nenufar.png" height="150" title="Feuille de nénufar (uMake)" /></a>
 
+## Documentation
+
+[_Making of_ ‹lotus flower› and ‹coquelicot› drawings](docs/making-of/README.md)
+
 ## Contributing
 
 <img src="docs/making-of/images/inkpad-ipad-pencil.jpg" height="120" title="InkPad et Apple Pencil" align="right"/>The 2D shapes were drawn with [Envoza's InkPad](https://itunes.apple.com/app/inkpad-vector-design-illustration/id1057007769) on an _iPad Mini 2_, an app based on the open-source [InkPad app](https://github.com/sprang/Inkpad) created by [Steve Sprang](https://github.com/sprang/), using a _Wacom Creative Stylus_.
 
-The 3D surfaces were drawn with the [uMake](https://itunes.apple.com/app/umake/id1042246861) app, on an _iPad Pro 12.9" 1st gen_ with an _Apple Pencil_ stylus.
+The 3D meshes were drawn with the [uMake](https://itunes.apple.com/app/umake/id1042246861) app, on an _iPad Pro 12.9" 1st gen_ with an _Apple Pencil_ stylus.
 
 ## License
 
