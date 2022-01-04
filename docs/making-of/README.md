@@ -23,6 +23,7 @@ Some screenshots at various stages of the drawing process. These 3D surfaces wer
 
 ## Coquelicot
 
+<a href="images/IMG_0086.jpg"><img src="images/IMG_0086.jpg" height="150" title="Coquelicot › Reference picture"></a>
 <a href="images/IMG_0087.jpg"><img src="images/IMG_0087.jpg" height="150" title="Coquelicot › Drawing 1"></a>
 <a href="images/IMG_0088.jpg"><img src="images/IMG_0088.jpg" height="150" title="Coquelicot › Drawing 2"></a>
 <a href="images/IMG_0089.jpg"><img src="images/IMG_0089.jpg" height="150" title="Coquelicot › Drawing 3"></a>
